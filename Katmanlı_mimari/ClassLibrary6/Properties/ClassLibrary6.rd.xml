@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Bu dosya, uygulamanızın yansıtma ve diğer dinamik kod desenleri aracılığıyla eriştiği türler hakkındaki
+    belirtimler olan Çalışma Zamanı Yönergeleri içerir. Çalışma Zamanı Yönergeleri, .NET Native iyileştiricisini denetlemek
+    ve iyileştiricinin kitaplığınız tarafından erişilen kodları kaldırmamasını sağlamak için kullanılır. Kitaplığınız
+    herhangi bir yansıtma gerçekleştirmiyorsa genellikle bu dosyayı düzenlemeniz gerekmez. Ancak
+    kitaplığınız özellikle kendisine geçirilen veya kendi türlerinden türetilen türler üzerine yansıtma gerçekleştiriyorsa
+    Çalışma Zamanı Yönergeleri yazmanız gerekir.
+
+    Kitaplıklarda en yaygın yansıtma kullanımı, kitaplığa geçirilen türler hakkında bilgi keşfetmek amacına
+    yöneliktir. Çalışma Zamanı Yönergeleri'nin kitaplığınıza geçirilen türlerle ilgili gereksinimleri ifade etmesi için üç 
+    yöntem vardır.
+
+    1.  Parameter, GenericParameter, TypeParameter, TypeEnumerableParameter
+        Parametre olarak geçirilen türler üzerine yansıtma gerçekleştirmek için bu yönergeleri kullanın.
+
+    2.  SubTypes
+        Başka bir türden türetilen türler üzerine yansıtma gerçekleştirmek için bir SubTypes yönergesi kullanın.
+
+    3.  AttributeImplies
+        Kitaplığınızın bir öznitelikle donatılmış türler veya metotlar üzerine yansıtma gerçekleştirmesi gerektiğini
+        göstermek için bir AttributeImplies yönergesi kullanın.
+
+    Kitaplıklara yönelik Çalışma Zamanı Yönergeleri yazma konusunda daha fazla bilgi edinmek için lütfen şu adresi ziyaret edin:
+    https://go.microsoft.com/fwlink/?LinkID=391919
+-->
+<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
+  <Library Name="ClassLibrary6">
+
+  	<!-- kitaplığınıza yönelik yönergeleri buraya ekleyin -->
+
+  </Library>
+</Directives>
