@@ -35,7 +35,7 @@ namespace ClassLibrary7
     }
         public static int TalepEkle(EntityBasvurusForm parametre)
         {
-            SqlCommand komut = new SqlCommand("insert into tbl_basvuruform  (OGRENCIID,DERSID) values (@P1,P2) ",Baglantı.bgl );
+            SqlCommand komut = new SqlCommand("insert into tbl_basvuruform  (OGRENCIID,DERSID) values (@P1,@P2) ",Baglantı.bgl );
             komut.Parameters.AddWithValue("@P1", parametre.Basogrid);
             komut.Parameters.AddWithValue("@P2", parametre.Basdersid);
             if (komut.Connection.State != ConnectionState.Open)

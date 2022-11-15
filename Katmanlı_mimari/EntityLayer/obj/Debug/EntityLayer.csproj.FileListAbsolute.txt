@@ -4,3 +4,9 @@ C:\Users\tahak\source\repos\WebSite1\EntityLayer\obj\Debug\EntityLayer.csprojAss
 C:\Users\tahak\source\repos\WebSite1\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 C:\Users\tahak\source\repos\WebSite1\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\tahak\source\repos\WebSite1\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\EntityLayer\obj\Debug\EntityLayer.pdb

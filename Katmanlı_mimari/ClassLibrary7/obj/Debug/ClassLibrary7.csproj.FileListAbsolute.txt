@@ -7,3 +7,12 @@ C:\Users\tahak\source\repos\WebSite1\ClassLibrary7\obj\Debug\ClassLibrary7.cspro
 C:\Users\tahak\source\repos\WebSite1\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.CopyComplete
 C:\Users\tahak\source\repos\WebSite1\ClassLibrary7\obj\Debug\ClassLibrary7.dll
 C:\Users\tahak\source\repos\WebSite1\ClassLibrary7\obj\Debug\ClassLibrary7.pdb
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\bin\Debug\ClassLibrary7.dll
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\bin\Debug\ClassLibrary7.pdb
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\bin\Debug\EntityLayer.dll
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\bin\Debug\EntityLayer.pdb
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\obj\Debug\ClassLibrary7.csprojAssemblyReference.cache
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.CoreCompileInputs.cache
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\obj\Debug\ClassLibrary7.csproj.CopyComplete
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\obj\Debug\ClassLibrary7.dll
+C:\Users\tahak\Source\Repos\Tahakskn\Katmanli_Mimari\Katmanlı_mimari\ClassLibrary7\obj\Debug\ClassLibrary7.pdb
